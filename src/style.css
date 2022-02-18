@@ -6,9 +6,10 @@
   --color-2: #00c46a;
 
   --color-dark--1: #2d3439;
-  --color-dark--1: #101d30;
+  --color-dark--1: #101d22;
   --color-dark--2: #42484d;
   --color-dark--2: #061a27;
+  --color-dark--2: #080e13;
   --color-light--1: #aaa;
   --color-light--2: #ececec;
   --color-light--3: rgb(214, 222, 224);
@@ -49,9 +50,9 @@ a:visited {
 /* SIde Nav */
 /************************/
 .sidenav {
-  flex-basis: 50rem;
+  flex-basis: 45rem;
   background-color: var(--color-dark--1);
-  padding: 3rem 5rem 4rem;
+  padding: 3rem 3rem 4rem;
   display: flex;
   flex-direction: column;
 }
